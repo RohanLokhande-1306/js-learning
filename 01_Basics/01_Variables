@@ -1,0 +1,9 @@
+// Varibale in Java Script 
+
+const AccountNo = 123456;
+let AccountEmail = "abcd@gmail.com";
+AccountHolder = "Rohan Lokhande";
+
+console.log(AccountHolder);
+console.table([AccountNo,AccountHolder,AccountEmail]);
+
