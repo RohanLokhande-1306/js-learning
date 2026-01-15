@@ -1,0 +1,23 @@
+// DataTypes in Java Script
+
+/*
+int = Number value Between 2 to 53
+biggint = long Number value
+String = "Rohan lokhande"
+Boolen = True / false
+null = satndalone value (no value / Empty)
+undefined = not Defined value 
+Symbol = Unique value
+*/
+
+let age = 18 ;               // Int 
+let name = "Rohan" ;        // String
+let Login = true ;         // boolean type
+let City;                 // undefined
+let State = null;        // null
+
+console.log(typeof age);      // number
+console.log(typeof name);    // string
+console.log(typeof Login);  // Boolean
+console.log(typeof City);  // undefined
+console.log(typeof State);// object
