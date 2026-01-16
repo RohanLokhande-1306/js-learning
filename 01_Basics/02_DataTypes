@@ -1,5 +1,12 @@
 // DataTypes in Java Script
 
+// Primaive DataTypes
+// 7 Types = String,Number,boolean,Null,undefined,Symbol,biggint
+
+// Non Primative DataTypes
+// Aray,Object,Function
+
+
 /*
 int = Number value Between 2 to 53
 biggint = long Number value
