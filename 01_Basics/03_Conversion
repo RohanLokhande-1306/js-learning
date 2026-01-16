@@ -1,0 +1,14 @@
+// conversion in Java Script
+/*
+let Age = 18;                     // Number
+let AgeInString = String(Age);   //Convert Number to String
+console.log(typeof AgeInString);// String
+
+let Name = "Rohan"              // String
+let NameInNum = Number(Name);  //Convert String to Number
+console.log(typeof NameInNum);// Number
+
+*/
+let Value = 3;
+let negValue = -Value;
+console.log(negValue);
