@@ -1,0 +1,14 @@
+// String in Java Script
+
+let Name = "Rohan";
+let Surname = "Lokhande";
+
+console.log(`My name is ${Name} and ${Surname}`);
+
+//Function of String
+const Newname = String("Rohan");       // String Decleartion 
+console.log(Surname.length);          //String length
+console.log(Name.toUpperCase());     //String Uppercase 
+console.log(Name.charAt(4));        //String char Find
+console.log(Name.replace('R','S'));//String Replace
+console.log(Name.includes('LO')); //String include or not
