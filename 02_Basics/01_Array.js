@@ -6,7 +6,7 @@ const myName = ["Rohan","Santosh"];
 console.log(myName);
 
 //Array Operations//
-/*
+
 myName.push("Lokhande");       //Push means Add Data
 console.log(myName);
 myName.push("Hello");
@@ -20,4 +20,4 @@ console.log(myName);        //Shift means remove first element
 
 console.log(myName.includes("Rohan"));     //Search in Array
 console.log(myName.indexOf("Rohan"));      //Search on index Value
-*/
+
