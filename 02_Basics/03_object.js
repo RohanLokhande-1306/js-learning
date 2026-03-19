@@ -6,7 +6,7 @@ let Rohan={
 };
 
 Rohan.email = "Rohan@chatgpt.com"  // Replace email value
-Object.freeze(Rohan)
+Object.freeze(Rohan)               // after use freeze values can not be change
 Rohan.email = "Rohan@microsoft.com"
 
 // console.log(Rohan["name"])
