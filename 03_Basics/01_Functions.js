@@ -33,7 +33,6 @@ function Restoprator (...num1)
   return num1
 }
 console.log(Restoprator(200,300,400,500))
-<<<<<<< HEAD
 
 const user = 
 {
@@ -41,11 +40,25 @@ const user =
   price : 199  
 }
 
+//object pass through function
 function handleUser(user)
-{
+{      
   console.log(`User name is ${user.name} price is ${user.price} only`)
 }
-handleUser({                //pass as arrgument 
+
+//pass as arrgument
+handleUser({                 
   name:"Shiv",
   price: 299
 })         
+
+//Array pass through funcrtion 
+
+const myNewarray = [100,200,300,400,500]
+
+function returnSecondValue(arrayvalue)
+{
+  return arrayvalue[2];
+}
+console.log(returnSecondValue(myNewarray));
+
