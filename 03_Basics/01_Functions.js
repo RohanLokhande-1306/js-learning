@@ -33,3 +33,18 @@ function Restoprator (...num1)
   return num1
 }
 console.log(Restoprator(200,300,400,500))
+
+const user = 
+{
+  name: "Rohan",
+  price : 199  
+}
+
+function handleUser(user)
+{
+  console.log(`User name is ${user.name} price is ${user.price} only`)
+}
+handleUser({                //pass as arrgument 
+  name:"Shiv",
+  price: 299
+})         
