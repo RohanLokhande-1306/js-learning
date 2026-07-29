@@ -10,11 +10,11 @@ MyName()
 
 
 // parametres passing in function
-function addTwoNumber (name1 ,name2)
+function addTwoNumber (name1 ,name2) //this nam1 and name2 is parameters 
 {
     console.log(name1 + name2)
 }
-addTwoNumber("Rohan" ,"Lokhande")     //this Rohan And Lokhande are Parameters
+addTwoNumber("Rohan" ,"Lokhande")     //this Rohan And Lokhande arre arrguments or values
 
 
 
