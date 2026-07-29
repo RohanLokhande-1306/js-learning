@@ -19,4 +19,9 @@ myName.shift();
 console.log(myName);        //Shift means remove first element
 
 console.log(myName.includes("Rohan"));     //Search in Array
+<<<<<<< HEAD
 console.log(myName.indexOf("Rohan"));      //Search on index Value
+=======
+console.log(myName.indexOf("Rohan"));      //Search on index Value
+
+>>>>>>> cd998d64a3facfd4f6a09b98eea4b477bb0ace5c

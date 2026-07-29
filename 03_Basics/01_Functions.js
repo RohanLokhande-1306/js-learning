@@ -33,6 +33,7 @@ function Restoprator (...num1)
   return num1
 }
 console.log(Restoprator(200,300,400,500))
+<<<<<<< HEAD
 
 const user = 
 {
